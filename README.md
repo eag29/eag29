@@ -34,8 +34,8 @@
 ## 📫 Bana Ulaşın
 
 - 📧 **Email:** emirali19078@gmail.com  
-- 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/placeholder) *(güncelse ekleyebiliriz)*  
-- 🌍 [Portfolio / CV](https://github.com/eag29) *(bu repo olabilir)*
+- 🔗 [LinkedIn Profilim]([https://www.linkedin.com/in/placeholder](https://www.linkedin.com/in/emir-ali-girgin-a190b1201/)) 
+- 🌍 [Portfolio / CV](https://github.com/EmirAliGirgin) 
 
 ---
 
