@@ -22,11 +22,11 @@
 
 ## 📂 Öne Çıkan Projeler
 
-### 🔹 [ASP.NET MVC5 Ticari Otomasyon](https://github.com/eag29/ASP.NET_MVC5_Ticari_Otomasyon)  
-> ASP.NET MVC5 ile geliştirilen, işletmelerin günlük iş süreçlerine yönelik bir otomasyon sistemi.
-
 ### 🔹 [Admin Panelli Dinamik CV Sitesi](https://github.com/eag29/ASP.NET_MVC5_AdminPanelliDinamikCvSitesi)  
 > MVC5 ile oluşturulan, kişisel bilgilerin dinamik olarak güncellenebildiği bir CV sitesi.
+
+### 🔹 [ASP.NET MVC5 Ticari Otomasyon](https://github.com/eag29/ASP.NET_MVC5_Ticari_Otomasyon)  
+> ASP.NET MVC5 ile geliştirilen, işletmelerin günlük iş süreçlerine yönelik bir otomasyon sistemi.
 
 ### 🔹 [MultiShop Mikroservis E-Ticaret Projesi](https://github.com/eag29/MultiShop-E-Ticaret-Mikroservis-Projesi)  
 > ASP.NET Core 6.0 ile geliştirilen, mikroservis mimarisiyle yapılandırılmış profesyonel bir e-ticaret platformu.
