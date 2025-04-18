@@ -3,7 +3,7 @@
 🎓 Doğuş Üniversitesi Bilgisayar Programcılığı mezunuyum. Şu anda Anadolu Üniversitesi'nde Yönetim Bilişim Sistemleri lisans eğitimime devam ediyorum.  
 💻 Yazılım geliştirme yolculuğum boyunca özellikle **.NET teknolojileri** üzerinde uzmanlaştım. Gerçek hayat problemlerine çözüm sunan masaüstü ve web tabanlı projeler geliştiriyorum.
 
-## 💼 Hakkımda Kısaca
+## 💼 Hakkımda
 
 - 👨‍💻 C#, ASP.NET MVC, ASP.NET Core ile projeler geliştiriyorum.  
 - 🧱 Projelerimde **N-Tier Architecture**, **Onion Architecture**, **CQRS**, **Repository Pattern**, **Mediator** gibi mimari ve tasarım desenlerini uyguluyorum.  
