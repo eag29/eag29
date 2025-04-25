@@ -37,7 +37,7 @@
 - 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/emir-ali-girgin-a190b1201/) 
 - 🌍 [CV](https://drive.google.com/file/d/1kEv-p1JRPlWQIHmkkLaaGbrV_l8V17l_/view?usp=drive_link) 
 
----
+
 
 > 🚀 Sürekli öğrenmeye ve yeni teknolojileri keşfetmeye açık bir geliştirici adayıyım. Takım çalışmasına yatkın, detaylara önem veren bir yazılımcı olarak profesyonel dünyada yer almak istiyorum.
 
