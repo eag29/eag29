@@ -5,9 +5,9 @@
 
 ## 💼 Hakkımda
 
-- 👨‍💻 C#, ASP.NET MVC, ASP.NET Core ile projeler geliştiriyorum.  
+- 👨‍💻 C#, ASP.NET MVC, ASP.NET Core API ile projeler geliştiriyorum.  
 - 🧱 Projelerimde **N-Tier Architecture**, **Onion Architecture**, **CQRS**, **Repository Pattern**, **Mediator** mimari ve tasarım desenlerini uyguluyorum.  
-- 🗄️ MSSQL,PostgreSQL, MongoDB, Redis veri tabanları ile çalıştım.  
+- 🗄️ MSSQL, PostgreSQL, MongoDB veri tabanları ile çalıştım.  
 - 🚀 Mikroservis tabanlı e-ticaret projeleri geliştirme tecrübesine sahibim.
 
 ## 🔧 Kullandığım Teknolojiler
