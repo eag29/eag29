@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Emir Ali Girgin
 
-🎓 Doğuş Üniversitesi Bilgisayar Programcılığı mezunuyum. Şu anda Anadolu Üniversitesi'nde Yönetim Bilişim Sistemleri lisans eğitimime devam ediyorum.  
+🎓 Doğuş Üniversitesi Bilgisayar Programcılığı ve Anadolu Üniversitesi'nde Yönetim Bilişim Sistemleri mezunuyum. 
 💻 Yazılım geliştirme yolculuğum boyunca özellikle **.NET teknolojileri** üzerinde uzmanlaştım. Gerçek hayat problemlerine çözüm sunan masaüstü ve web tabanlı projeler geliştiriyorum.
 
 ## 💼 Hakkımda
